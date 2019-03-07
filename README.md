@@ -35,6 +35,11 @@ Prerequisites:
 - Open [src\Calculator.sln](/src/Calculator.sln) in Visual Studio to build and run the Calculator app.
 - For a general description of the Calculator project architecture see [ApplicationArchitecture.md](docs/ApplicationArchitecture.md).
 
+*追記*
+- Windows10 Version1809以降をインストール(Windows Updateを確認)
+- Windowsの開発者向けの設定をオンにする(開発者モードのオンと、署名せずにPowerShellスクリプトを実行するようにポリシーを変更)
+- ソリューションを開いたら、プロパティでデバッグのコンピューター名を実行するコンピュータに設定(localhostとか)
+
 ## Contributing
 Want to contribute? The team encourages community feedback and contributions. Please follow our [contributing guidelines](CONTRIBUTING.md).
 
